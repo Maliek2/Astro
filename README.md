@@ -1,6 +1,6 @@
-# Astro Landing Page
+# Maliek News
 
-An Astro + Tailwind CSS starter kit for landing pages.
+An Vital + Tailwind CSS starter kit for landing pages.
 
 ![Screenshots of Astro Landing Page](screenshots.jpg)
 
